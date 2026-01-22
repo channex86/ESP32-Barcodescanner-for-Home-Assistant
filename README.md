@@ -1,5 +1,11 @@
 # ESP32-Barcodescanner-for-Home-Assistant
-DIY ESP32 barcode scanner for Home Assistant
+Ein DIY-Barcodescanner bestehend aus einem ESP32-S3, einem GM60-Barcode-Modul, TFT-Display, Buzzer, usw...
+
+Features:
+- Barcodes scannen und in HA integrieren
+- Echter Barcode-Beep als Rückmeldung
+- Aufbau einer Grocy-Datenbank
+- 3 Modis wählbar: Einkaufsliste, Produktregistrierung, Lagermodus
 
 ## License
 
