@@ -10,28 +10,31 @@ Ein DIY-Barcodescanner bestehend aus einem ESP32-S3, einem GM60-Barcode-Modul, T
 **Hardware (getestet):**
 
 ESP-Controller:
-- ESP32-S3 oder ESP32 D1 Mini
+- ESP32-S3, ESP32-Wroom, oder ähnlich
 
 Barcode-Scannermodul:
 - GM60 oder GM861s
+  Link*: https://amzn.to/4a4Y5TI
 
 Display:
-- 1.77" TFT (ST7735) oder 0.96" OLED-Display (SSD1306)
+- 1.77" TFT (ST7735)
+  Link*: https://amzn.to/4qTAcpA
 
 Buzzer:
 - Piezo-Buzzer (aktiv oder passiv möglich)
+  Link*: https://amzn.to/3LTYT65
 
 Sonstiges/Optionales/Bonus:
 - Taster
+  Link*: https://amzn.to/4alEFLM
 - Status-LED-Platine (KY-016 FZ0455)
-- Ultraschall-Sensor (HC-SR04) oder PIR-Präsenzsensor (HC-SR501). Der PIR ist allerdings nicht empfehlenswert. Lieber den HC-SR04 nehmen
+  Link*: https://amzn.to/4t8ziHj
+- Ultraschall-Sensor (HC-SR04)
+  Link*: https://amzn.to/48ZUtUn
 - beliebige Leuchtstarke LED
 - Lochrasterplatine 5x7cm
 - jede Menge Dupont-Kabel
 - ein paar Stift- und Buchsenleisten (2,54mm)
-
-
-
 
 ## License
 
