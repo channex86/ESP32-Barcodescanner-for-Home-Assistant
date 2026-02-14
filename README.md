@@ -5,7 +5,7 @@ Ein DIY-Barcodescanner bestehend aus einem ESP32-S3, einem GM60-Barcode-Modul, T
 - Barcodes scannen und in HA integrieren
 - Echter Barcode-Beep als Rückmeldung
 - Aufbau einer Grocy-Datenbank
-- 3 Modis wählbar: Einkaufsliste, Produktregistrierung, Lagermodus
+- 6 Modis wählbar: "Produkt auf Einkaufsliste", "Produktregistrierung", "Einlagern", "Auslagern", "Einkaufsliste einsehen" und "Haus-Info"
 
 **Hardware (getestet):**
 
@@ -35,6 +35,8 @@ Sonstiges/Optionales/Bonus:
 - Lochrasterplatine 5x7cm
 - jede Menge Dupont-Kabel
 - ein paar Stift- und Buchsenleisten (2,54mm)
+
+
 
 ## License
 
